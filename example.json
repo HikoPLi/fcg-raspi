@@ -1,0 +1,19 @@
+[
+    {
+        "success": true,
+        "object": "container",
+        "material": "plastic",
+        "isMetal": false,
+        "type": {
+            "metal": false,
+            "plastic": true,
+            "paper": false,
+            "glass": false
+        },
+        "detail": "a plastic container, possibly a bottle or jar, with a white cap"
+    },
+    {
+        "success": false,
+        "detail": "str(e)"
+    }
+]
